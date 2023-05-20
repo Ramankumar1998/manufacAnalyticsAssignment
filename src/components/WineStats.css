@@ -1,0 +1,20 @@
+.wine-stats-table {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: gray;
+}
+
+.wine-stats-table th,
+.wine-stats-table td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+.wine-stats-table th {
+  background-color: #f2f2f2;
+}
+
+.wine-stats-table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
