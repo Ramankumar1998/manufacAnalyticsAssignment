@@ -1,7 +1,7 @@
 
 
 ### Data Visualization Task
-
+<img src="Screenshot (8).png">
 1. You are expected to calculate some statistical measures of the Wine Data Set.
 2. In the final product, upon running yarn start, the browser should open with the desired
 page rendered.
